@@ -1,12 +1,3 @@
 # CS330_COMPUTER_GRAPHICS_AND_VISUALIZATION
-How do I approach designing software?
-What new design skills has your work on the project helped you to craft?
-What design process did you follow for your project work?
-How could tactics from your design approach be applied in future work?
-How do I approach developing programs?
-What new development strategies did you use while working on your 3D scene?
-How did iteration factor into your development?
-How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-How can computer science help me in reaching my goals?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+REFLECTION:
+When designing software, I carefully look my requirements and break my assignments into smaller more manageable pieces. When building my 3D scene, I mainly relied on trial and error. I would create my shape then give its color and once it looked correct, I would position it within my scene. I repeated this with each shape to create the completed breakfast set. Using iteration, continuous testing, and other computer science skills it has given me the tools and confidence to create software. The more I practice, the more I  grow, and learning graphics and visualizations have helped me become more excited to continus my journey in software.
